@@ -1,0 +1,24 @@
+# dependências
+node_modules/
+
+# build
+.next/
+out/
+build/
+dist/
+
+# variáveis de ambiente (nunca fazer commit; usar .env.example)
+.env
+.env.*
+!.env.example
+
+# vercel / supabase
+.vercel/
+supabase/.temp/
+
+# outros
+*.log
+*.tsbuildinfo
+next-env.d.ts
+.DS_Store
+Thumbs.db
