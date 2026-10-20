@@ -2,7 +2,7 @@
 
 Calculadora web interativa em **português do Brasil**: a partir do nome completo e da data de nascimento, calcula o mapa numerológico pelo sistema pitagórico. Projeto de portfólio da **GG Studio**.
 
-**Ver ao vivo:** _(link da Vercel em breve)_
+**Ver ao vivo:** https://demo-calculadora-vert.vercel.app
 
 <p>
   <img src="docs/captura-computador.png" alt="Calculadora no computador" width="68%">
